@@ -1,2 +1,2 @@
-# cancun-devops.github.com
+# cancun-devops.github.io
 Website of Cancun DevOps
